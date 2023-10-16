@@ -37,4 +37,4 @@ This project is a web-based note-taking application built using the Flask web fr
 - On the note detail page, you can also edit the note's title and content by clicking the "Edit" button.
 - To delete a note, click the "Delete" button on the note detail page.
 
-
+submit50
